@@ -6,3 +6,7 @@
 1. Выявление наиболее влияющих на отказ клиентов факторов (описательные характеристики, матрица корреляции, t-критерий Стьюдента, U-критерий Манна-Уитни). <br>
 2. Прогнозирование оттока клиентов (Логистическая регрессия). <br>
 <img src="https://github.com/janesheshera/Bank_clients_Phyton/assets/63310859/56567cd9-e158-4c0b-bc06-6d3e3adb27c5" height="250"/><br>
+
+<img src="https://github.com/janesheshera/Bank_clients_Phyton/assets/63310859/d74e9cb1-bbcc-47d6-8765-8f86230d761f" height="250"/><br>
+
+
