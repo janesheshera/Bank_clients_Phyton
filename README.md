@@ -4,6 +4,7 @@
 <img src="https://github.com/janesheshera/Bank_clients_Phyton/assets/63310859/d74e9cb1-bbcc-47d6-8765-8f86230d761f" height="250"/><br>
 <br>
 <a href="https://docs.google.com/document/d/1cKOTHjTOZ27C8F0_6uCg1OuLvGE8ZkpEtYpTYsIT2w0/edit?usp=sharing"> :bangbang: Подробное описание проведенного анализа :page_with_curl: </a><br>
+<br>
 В ходе анализа решаются следующие задачи: <br>
 1. Выявление наиболее влияющих на отказ клиентов факторов (описательные характеристики, матрица корреляции, t-критерий Стьюдента, U-критерий Манна-Уитни). <br>
 2. Прогнозирование оттока клиентов (Логистическая регрессия). <br>
