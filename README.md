@@ -1,7 +1,7 @@
 <h3> Дипломная работа по курсу "Аналитик данных" (учебный курс Нетологии) </h3>
 Управление банка обеспокоено тем, что клиенты отказываются от использования кредитных карт. Необходимо определить причины, влияющие на их решение об отказе, а также разработать модель, позволяющую выявить клиентов, которые планируют отказаться от использования кредитных карт в будущем. <br>
 <br>
-<img src="https://github.com/janesheshera/Bank_clients_Phyton/assets/63310859/d74e9cb1-bbcc-47d6-8765-8f86230d761f" height="250"/><br>
+<img src="https://github.com/janesheshera/Bank_clients_Phyton/assets/63310859/cc0be0b0-e96f-4c7b-aadf-9d9ab3c25a6b" height="250"/><br>
 <br>
 <a href="https://docs.google.com/document/d/1cKOTHjTOZ27C8F0_6uCg1OuLvGE8ZkpEtYpTYsIT2w0/edit?usp=sharing"> :bangbang: Подробное описание проведенного анализа :page_with_curl: </a><br>
 <br>
